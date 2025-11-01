@@ -1,0 +1,13 @@
+.the-post{
+    display: flex;
+    width: 500px;
+    height: 500px;
+    margin: 0 auto;
+}
+.post-header{
+    width: fit-content;
+    height: fit-content;
+}
+*{
+    border: dashed 2px red;
+}
