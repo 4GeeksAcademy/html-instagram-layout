@@ -9,6 +9,7 @@
     width: 500px;
     height: 60px;
     background-color: white;
+    align-items: center;
 }
 body{
     background-color: black;
