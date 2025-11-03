@@ -4,6 +4,8 @@
     margin: 0 auto;
 }
 .post-header{
+    display: flex;
+    justify-content: space-between;
     width: 500px;
     height: 60px;
     background-color: white;
@@ -22,9 +24,12 @@ body{
 }
 .post-body{
     background-color: white;
+    justify-content: space-between;
 }
 .font-awesome{
     display: flex;
-
+}
+.last-font{
+    margin-left: 420px;
 }
 
