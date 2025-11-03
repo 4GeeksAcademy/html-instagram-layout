@@ -28,6 +28,7 @@ body{
 }
 .font-awesome{
     display: flex;
+    padding-top: 10px;
 }
 .last-font{
     margin-left: 420px;
